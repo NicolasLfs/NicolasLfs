@@ -4,12 +4,12 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,30:111827,70:00f5ff,100:8b5cf6&text=SYSTEM%20INITIALIZATION&fontColor=ffffff&fontSize=40&fontAlignY=38&animation=fadeIn&desc=Nicolas%20Lopes%20%7C%20Software%20Engineer&descAlignY=56&descAlign=50" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,30:111827,70:00f5ff,100:8b5cf6&text=SOFTWARE%20ENGINEER&fontColor=ffffff&fontSize=40&fontAlignY=38&animation=fadeIn&desc=Nicolas%20Lopes%20%7C%20Go%20%7C%20Next.js%20%7C%20SaaS&descAlignY=56&descAlign=50" alt="banner"/>
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F5FF&size=28&center=true&vCenter=true&width=1000&lines=>>>+Booting+Nicolas+Lopes+Profile...;>>>+Software+Engineer+%7C+Go+%7C+Next.js;>>>+Microservices+%7C+PostgreSQL+%7C+SaaS;>>>+Building+scalable+products+in+production" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F5FF&size=28&center=true&vCenter=true&width=1000&lines=>>>+Nicolas+Lopes+%7C+Software+Engineer;>>>+Go+%7C+Next.js+%7C+PostgreSQL;>>>+Microservices+%7C+SaaS+in+Production;>>>+Building+reliable+products+from+architecture+to+production" />
 </p>
 
 ---
@@ -17,17 +17,24 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sobre Mim
 
 ```txt
-> Nome.............: Nicolas Lfs
-> Perfil...........: Software Engineer com 6+ anos de experiência
+> Nome.............: Nicolas Lopes
+> Perfil...........: Software Engineer Full-stack com 6 anos de experiência
 > Especialidade....: Go, Next.js, PostgreSQL, microserviços e SaaS
-> Infraestrutura...: Docker, VPS, Cloudflare, AWS, observabilidade e CI/CD
-> Foco.............: Produtos escaláveis, segurança e sistemas em produção
+> Infraestrutura...: Docker, VPS, Cloudflare, storage e observabilidade
+> Foco.............: Arquitetura, produtos confiáveis e sistemas em produção
 ```
 
 <p align="left">
-Engenheiro de Software especializado na construção de aplicações full-stack e ecossistemas SaaS escaláveis.
-Atuo da arquitetura ao deploy, com experiência em microserviços, integrações de pagamento, APIs REST,
-mensageria, otimização de PostgreSQL e infraestrutura de produção.
+Engenheiro de Software Full-stack com 6 anos de experiência em desenvolvimento web,
+microsserviços e ecossistemas SaaS em produção. Meu foco atual é arquitetura de
+microserviços com Go no back-end, Next.js no front-end e PostgreSQL em produção,
+incluindo tuning, réplicas e connection pooling, além de infraestrutura em VPS com Docker.
+</p>
+
+<p align="left">
+Minha trajetória como founder e desenvolvedor autônomo fortaleceu meu senso de dono,
+autonomia técnica e visão de produto: da compreensão do problema e das decisões de
+arquitetura à entrega e operação de soluções confiáveis em produção.
 </p>
 
 ---
@@ -39,11 +46,19 @@ mensageria, otimização de PostgreSQL e infraestrutura de produção.
 ### Linguagens & Frameworks
 <img src="https://skillicons.dev/icons?i=go,ts,js,react,nextjs,nodejs,express,tailwind,html,css&theme=dark" />
 
-### Banco de Dados & Cloud
-<img src="https://skillicons.dev/icons?i=postgres,redis,rabbitmq,docker,aws,cloudflare,terraform&theme=dark" />
+TypeScript · JavaScript (ES6+) · Node.js · Go (Golang) · Python · PHP · React · Next.js · Tailwind CSS
 
-### Ferramentas & Produtividade
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,postman,grafana&theme=dark" />
+### Back-End & Dados
+<img src="https://skillicons.dev/icons?i=postgres,redis,rabbitmq&theme=dark" />
+
+APIs REST · PostgreSQL · Redis · RabbitMQ · WebSockets · TypeORM · Drizzle ORM · Prisma ORM
+
+Go: Uber Fx · pgx/v5 · sqlc · goroutines e channels · transações ACID · idempotência
+
+### Infra & DevOps
+<img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,terraform,grafana&theme=dark" />
+
+Docker · VPS · EasyPanel · Cloudflare (CDN/Proxy) · AWS S3 · Backblaze B2 · MinIO · OpenTelemetry · Grafana
 
 </div>
 
@@ -64,7 +79,8 @@ mensageria, otimização de PostgreSQL e infraestrutura de produção.
 
 ## 🚀 Produtos Desenvolvidos
 
-Produtos construídos durante minha atuação como sócio e engenheiro de software em uma startup. Atualmente, não faço mais parte do time responsável por esses produtos.
+Produtos SaaS construídos do zero e operados em produção, com foco em resolver
+problemas reais de negócio por meio de software.
 
 <div align="center">
 
@@ -72,7 +88,8 @@ Produtos construídos durante minha atuação como sócio e engenheiro de softwa
 <tr>
 <td width="50%">
   <h3 align="center">⚡ Teorize</h3>
-  <p align="center">Hub operacional multi-organizacional para campanhas pagas, leads, vendas, projetos e equipes.</p>
+  <p align="center">Hub operacional multi-organizacional para campanhas pagas, leads e vendas.</p>
+  <p align="center"><strong>Next.js · Go · PostgreSQL · Stripe · WebSocket</strong></p>
   <p align="center">
     <a href="https://teorize.com.br" target="_blank">
       <img src="https://img.shields.io/badge/Conhecer%20Produto-00F5FF?style=for-the-badge&logo=external-link&logoColor=0D1117"/>
@@ -82,6 +99,7 @@ Produtos construídos durante minha atuação como sócio e engenheiro de softwa
 <td width="50%">
   <h3 align="center">🛰 Coreli CRM</h3>
   <p align="center">CRM omnichannel com IA para WhatsApp, Instagram, Messenger e e-mail.</p>
+  <p align="center"><strong>Next.js · Go · PostgreSQL · Redis · RabbitMQ</strong></p>
   <p align="center">
     <a href="https://coreli.com.br" target="_blank">
       <img src="https://img.shields.io/badge/Conhecer%20Produto-8B5CF6?style=for-the-badge&logo=external-link&logoColor=ffffff"/>
@@ -92,7 +110,8 @@ Produtos construídos durante minha atuação como sócio e engenheiro de softwa
 <tr>
 <td width="50%">
   <h3 align="center">🔗 MeulinkPRO</h3>
-  <p align="center">SaaS de link-in-bio com editor visual, analytics em tempo real e monetização freemium.</p>
+  <p align="center">Plataforma SaaS de link-in-bio com editor visual, analytics e monetização freemium.</p>
+  <p align="center"><strong>Next.js · Go · PostgreSQL · Redis · RabbitMQ</strong></p>
   <p align="center">
     <a href="https://meulinkpro.com.br" target="_blank">
       <img src="https://img.shields.io/badge/Conhecer%20Produto-00C2FF?style=for-the-badge&logo=external-link&logoColor=0D1117"/>
@@ -100,11 +119,11 @@ Produtos construídos durante minha atuação como sócio e engenheiro de softwa
   </p>
 </td>
 <td width="50%">
-  <h3 align="center">🧩 Stack dos Produtos</h3>
-  <p align="center">Go, Next.js, PostgreSQL com réplicas, Redis, RabbitMQ, Stripe e observabilidade.</p>
+  <h3 align="center">🧩 Engenharia de Produto</h3>
+  <p align="center">Arquitetura, desenvolvimento full-stack e operação de produtos SaaS em produção.</p>
   <p align="center">
     <a href="https://nicolaslfs.github.io/my-portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/Experiência%20Técnica-06B6D4?style=for-the-badge&logo=code&logoColor=0D1117"/>
+      <img src="https://img.shields.io/badge/Ver%20Portfólio-06B6D4?style=for-the-badge&logo=code&logoColor=0D1117"/>
     </a>
   </p>
 </td>
@@ -112,6 +131,20 @@ Produtos construídos durante minha atuação como sócio e engenheiro de softwa
 </table>
 
 </div>
+
+---
+
+## 🧪 Case Técnico em Go
+
+### [challenge-go-finance — API de Transações e Sistema Financeiro em Go](https://github.com/NicolasLfs/challenge-go-finance)
+
+Serviço back-end para processamento distribuído de transações de apostas por API HTTP e AWS SQS. Aplica idempotência persistida e serialização por carteira, mantendo carteira, ledger, inbox e outbox consistentes na mesma transação PostgreSQL.
+
+**Destaques técnicos:** arquitetura limpa com domínio desacoplado dos adaptadores e da infraestrutura; valores monetários em unidades mínimas inteiras, sem ponto flutuante; consumidor concorrente com goroutines, channels e limite de processamento; publicação de eventos via outbox; autenticação OAuth 2.0/OIDC.
+
+**Stack:** Go · Uber Fx · PostgreSQL · pgx/v5 · sqlc · AWS SQS · Keycloak · Docker
+
+**Qualidade:** testes unitários e de integração, detector de race do Go e cenários de concorrência e carga com k6.
 
 ---
 
@@ -125,12 +158,12 @@ Atuação como sócio e engenheiro de software na arquitetura e desenvolvimento 
 ### Fuilt - Marketing & Tecnologia · Desenvolvedor Web
 **novembro de 2022 - março de 2024 · São Paulo, Brasil**
 
-Landing pages e lojas virtuais para campanhas de tráfego pago, usando WordPress, Elementor Pro, JetEngine, Tray Commerce, WooCommerce, HTML, CSS, JavaScript, jQuery e PHP.
+Desenvolvimento de landing pages e lojas virtuais para campanhas de tráfego pago, com foco em implementação, responsividade e experiência de compra.
 
 ### Globe Commerce · Desenvolvedor Web Front-End
 **fevereiro de 2019 - setembro de 2022 · São Paulo, Brasil**
 
-Temas e interfaces customizadas para Loja Integrada, Tray Commerce e NuvemShop, com foco em responsividade, performance e conversão.
+Desenvolvimento de temas e interfaces customizadas para plataformas de e-commerce, com foco em responsividade, performance e conversão.
 
 ### OSMGROUP · Analista de Desenvolvimento de Sistemas
 **outubro de 2015 - julho de 2018 · São Paulo, SP**
@@ -154,11 +187,11 @@ Administração de servidores Windows Server, virtualização, backups, firewall
 $ whoami
 > Nicolas Lopes - Software Engineer
 
-$ current_mission --2026
-> Evoluir arquitetura de sistemas e infraestrutura de produção
-> Aprofundar Infrastructure as Code com Terraform
-> Fortalecer segurança de aplicações SaaS com Aikido Security
-> Criar produtos confiáveis, observáveis e escaláveis
+$ current_focus
+> Projetar e evoluir microserviços com Go e aplicações com Next.js
+> Operar PostgreSQL com foco em performance, réplicas e connection pooling
+> Construir infraestrutura confiável em VPS com Docker
+> Entregar produtos SaaS observáveis, confiáveis e orientados a problemas reais
 ```
 
 ---
@@ -180,30 +213,15 @@ $ current_mission --2026
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=NicolasLfs&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</div>
-
----
-
-## 🐍 Snake Contribution Animation
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/NicolasLfs/NicolasLfs/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</div>
-
-> **Nota:** para o snake funcionar, você precisa de um workflow gerando o arquivo na branch `output`.
-
----
-
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/nicolaslopes-eng" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://nicolaslfs.github.io/my-portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=githubpages&logoColor=00F5FF"/>
 </a>
 <a href="mailto:nicolaslopes03@hotmail.com">
   <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
@@ -221,5 +239,5 @@ $ current_mission --2026
 </div>
 
 <p align="center">
-  <sub>⚙️ Designed & engineered by <strong>NicolasLfs</strong> • Cyberpunk AI Interface • 2026</sub>
+  <sub>⚙️ Designed & engineered by <strong>NicolasLfs</strong> • 2026</sub>
 </p>
